@@ -10,6 +10,9 @@
               customers are protected and the customer also gets access to view
               his data using user I'd and password. Due to this it becomes very
               easy for the owner to manage the tiffin service.
+              
+              
+              THIS WEBSITE IS COMPLETE RESPONSIVE FOR TABLET AND MOBILE VIEW.
 
 
 
